@@ -887,7 +887,8 @@ def monitor_resource_usage(factory_datasite):
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Factory DataSite Version**: 2.0  
 **PySyft Integration**: Full Production Support  

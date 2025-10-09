@@ -826,7 +826,8 @@ def industrial_data_quality_check(dataset: FederatedDataset) -> Dict[str, Any]:
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Integration Layer**: v2.0  
 **Data Pipeline**: Compatible with shared/processed_data structure  

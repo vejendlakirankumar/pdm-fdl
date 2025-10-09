@@ -529,9 +529,10 @@ If you use this framework in your research, please cite:
 
 ```
 @software{networkfed_framework_2025,
-  title={NetworkFed: Real-Time Network Federated Learning for Industrial IoT Predictive Maintenance},
-  author={PDM-FDL Research Team},
+  title={Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems},
+  author={Kiran kumar Vejendla},
   year={2025},
+  institution={City University of Seattle},
   url={https://github.com/vejendla-kiran/pdm-fdl}
 }
 ```
@@ -542,7 +543,8 @@ This research framework is provided for academic and research purposes. Contribu
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
-**Last Updated**: September 2025  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
+**Last Updated**: October 2025  
 **Framework Version**: 2.0  
 **Research Phase**: Step 1 - Network Federated Learning Implementation

@@ -911,7 +911,8 @@ class ResilientExecutionManager:
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Execution Engine Version**: 2.0  
 **Integration**: Heartbeat Manager, Monitoring Systems  

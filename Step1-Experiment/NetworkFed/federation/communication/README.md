@@ -928,7 +928,8 @@ def validate_security_configuration(secure_comm):
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Communication Layer Version**: 2.0  
 **Security Features**: AES Encryption, Differential Privacy, Byzantine Fault Tolerance  

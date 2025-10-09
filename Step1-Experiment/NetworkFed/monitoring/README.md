@@ -1022,7 +1022,8 @@ def validate_metrics_collection(metrics_collector):
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Monitoring Version**: 2.0  
 **Dashboard Technology**: Flask + HTML5 + JavaScript  

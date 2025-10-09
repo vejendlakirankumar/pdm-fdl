@@ -357,7 +357,8 @@ convergence_indicators = {
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Framework Version**: 2.0  
 **Research Phase**: Step 1 - Network Federated Learning Implementation

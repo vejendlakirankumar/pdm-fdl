@@ -449,9 +449,24 @@ optimal_config = {
 - **Statistical Testing**: Rigorous significance testing across multiple runs
 - **Performance Monitoring**: Continuous tracking of computational resource usage
 
+## Citation and Academic Use
+
+If you use these centralized baseline models in your research, please cite:
+
+```bibtex
+@misc{pdm_fdl_framework_2025,
+  title={Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems},
+  author={Kiran kumar Vejendla},
+  year={2025},
+  institution={City University of Seattle},
+  note={Doctoral Research Framework}
+}
+```
+
 ---
 
 **Phase 1a Status**: ✅ **COMPLETED - BASELINE MODELS ESTABLISHED**  
 **Statistical Validation**: 32-Run Analysis with 95% Confidence Intervals  
 **Best Performing Model**: OptimizedHybrid (92.78% ± 1.42% accuracy)  
-**Ready for**: Federated Learning Implementation (Phase 1b & 1c)
+**Ready for**: Federated Learning Implementation (Phase 1b & 1c)  
+**Author**: Kiran kumar Vejendla, City University of Seattle

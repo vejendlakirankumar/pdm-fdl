@@ -759,10 +759,25 @@ logs/
 - **Computational Optimization**: Vectorized operations and GPU acceleration
 - **Network Optimization**: Efficient communication protocols and compression
 
+## Citation and Academic Use
+
+If you use this federated learning framework in your research, please cite:
+
+```bibtex
+@misc{pdm_fdl_framework_2025,
+  title={Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems},
+  author={Kiran kumar Vejendla},
+  year={2025},
+  institution={City University of Seattle},
+  note={Doctoral Research Framework}
+}
+```
+
 ---
 
 **Phase 1b Status**: ✅ **COMPREHENSIVE SIMULATED FEDERATED LEARNING COMPLETED**  
 **Experimental Coverage**: 108 Conditions × 32 Statistical Runs = 3,456 Experiments  
 **Best Algorithm**: FedDyn with OptimizedHybrid (91.23% ± 1.45% accuracy on IID)  
 **Key Finding**: -6.17% accuracy degradation under severe non-IID conditions (α=0.1)  
-**Ready for**: Real Network Implementation (Phase 1c)
+**Ready for**: Real Network Implementation (Phase 1c)  
+**Author**: Kiran kumar Vejendla, City University of Seattle

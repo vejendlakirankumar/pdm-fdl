@@ -332,9 +332,24 @@ print(f"Learning rate: {config.learning_rate}")
 3. **Quantum ML**: Quantum neural network implementations
 4. **Explainable AI**: Model interpretability and feature importance analysis
 
+## Citation and Academic Use
+
+If you use these shared resources in your research, please cite:
+
+```bibtex
+@misc{pdm_fdl_framework_2025,
+  title={Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems},
+  author={Kiran kumar Vejendla},
+  year={2025},
+  institution={City University of Seattle},
+  note={Doctoral Research Framework}
+}
+```
+
 ---
 
-**Maintained by**: PDM-FDL Research Team  
-**Last Updated**: September 2025  
+**Maintained by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
+**Last Updated**: October 2025  
 **Component Version**: 1.0  
 **Integration Level**: Cross-Phase Compatibility

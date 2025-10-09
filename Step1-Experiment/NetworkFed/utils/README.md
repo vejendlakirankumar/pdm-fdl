@@ -846,7 +846,8 @@ optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'])
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Framework Version**: 2.0  
 **Industrial Application**: Predictive Maintenance in Manufacturing IoT Systems

@@ -1135,7 +1135,8 @@ class ComplianceMonitor:
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **DataSite Version**: 3.0  
 **PySyft Integration**: Full Real Infrastructure Support  

@@ -911,7 +911,8 @@ monitor = ModelPerformanceMonitor(model_manager)
 
 ---
 
-**Developed by**: PDM-FDL Research Team  
+**Developed by**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Last Updated**: September 2025  
 **Model Optimization**: Based on Step 1A Hyperparameter Tuning Results  
 **Accuracy Range**: 92.20% - 94.15%  

@@ -318,9 +318,24 @@ df = pd.read_csv(data_path)
 3. **Real Data Integration**: Incorporation of actual industrial sensor data
 4. **Streaming Analysis**: Real-time EDA for live data streams
 
+## Citation and Academic Use
+
+If you use this exploratory data analysis framework in your research, please cite:
+
+```bibtex
+@misc{pdm_fdl_framework_2025,
+  title={Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems},
+  author={Kiran kumar Vejendla},
+  year={2025},
+  institution={City University of Seattle},
+  note={Doctoral Research Framework}
+}
+```
+
 ---
 
 **Analysis Framework**: Comprehensive Exploratory Data Analysis  
 **Statistical Rigor**: Academic Research Standards  
 **Reproducibility**: Full Code Documentation and Version Control  
-**Integration**: Foundation for All Subsequent Research Phases
+**Integration**: Foundation for All Subsequent Research Phases  
+**Author**: Kiran kumar Vejendla, City University of Seattle

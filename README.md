@@ -1,8 +1,8 @@
-# Privacy-Preserving Real-Time Predictive Maintenance in Industrial IoT Systems
+# Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems
 
 ## Project Overview
 
-This repository implements a comprehensive research framework for **Privacy-Preserving Real-Time Predictive Maintenance in Industrial Internet of Things (IIoT) Systems** through the integration of Federated Learning (FL) and Edge Computing (EC). The research addresses critical challenges in industrial predictive maintenance: data privacy preservation, communication latency reduction, and system scalability enhancement.
+This repository implements a comprehensive research framework for **Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial Internet of Things (IIoT) Systems**. The research addresses critical challenges in industrial predictive maintenance: data privacy preservation, communication latency reduction, and system scalability enhancement through the novel integration of Federated Learning (FL) and Edge Computing (EC).
 
 ## Research Methodology
 
@@ -230,10 +230,10 @@ If you use this framework in your research, please cite:
 
 ```bibtex
 @misc{pdm_fdl_framework_2025,
-  title={Privacy-Preserving Real-Time Predictive Maintenance in Industrial IoT Systems: A Federated Learning and Edge Computing Approach},
-  author={PDM-FDL Research Team},
+  title={Integrating Federated Learning and Edge Computing for Privacy-Preserving and Real-time Predictive Maintenance in Industrial IoT Systems},
+  author={Kiran kumar Vejendla},
   year={2025},
-  institution={Information Technology Research},
+  institution={City University of Seattle},
   note={Doctoral Research Framework}
 }
 ```
@@ -250,7 +250,9 @@ The work builds upon theoretical foundations from:
 
 ---
 
+**Author**: Kiran kumar Vejendla  
+**Institution**: City University of Seattle  
 **Research Phase**: Doctoral Research Implementation  
-**Last Updated**: September 2025  
+**Last Updated**: October 2025  
 **Framework Version**: 1.0  
-**Academic Context**: Doctor of Information Technology Program
+**Academic Context**: Doctorate in Information Technology Program
