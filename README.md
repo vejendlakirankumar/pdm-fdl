@@ -45,7 +45,6 @@ The research follows a systematic three-phase approach to develop and validate a
 ```
 pdm-fdl/
 ├── README.md                           # This comprehensive documentation
-├── methodology_extracted.txt           # Research proposal and theoretical background
 ├── shared/                            # Shared utilities and processed data
 │   ├── data/                         # AI4I 2020 dataset and preprocessing results
 │   ├── models/                       # Optimized neural network implementations
