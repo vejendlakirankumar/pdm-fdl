@@ -40,6 +40,8 @@ The research follows a systematic three-phase approach to develop and validate a
    - Secure aggregation protocols for model update protection
    - GDPR-compliant data handling procedures
 
+The conceptual design can be visualized in ![video_filename](https://user-images.githubusercontent.com...)
+
 ## Directory Structure
 
 ```
