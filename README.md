@@ -40,7 +40,7 @@ The research follows a systematic three-phase approach to develop and validate a
    - Secure aggregation protocols for model update protection
    - GDPR-compliant data handling procedures
 
-The conceptual design can be visualized in ![Concept visualization.mp4](Concept visualization.mp4)
+The conceptual design can be visualized in ![Concept visualization.mp4]([Concept visualization.mp4](https://github.com/vejendlakirankumar/pdm-fdl/blob/main/Concept%20visualization.mp4))
 
 ## Directory Structure
 
